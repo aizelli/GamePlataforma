@@ -1,0 +1,4 @@
+repository "Game Plataforma"
+  path "/"
+    br "/main"
+    co "/main"
